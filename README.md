@@ -1,4 +1,4 @@
-## ml_vol_model
+## ML - Volatility Model
 
 ### ML = Random Forest
 
